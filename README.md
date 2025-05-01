@@ -24,9 +24,22 @@
   2. image_to_text.py \
        It runs the number plate text recognition model.
 
-  3. GNU Nano \
+  3. \
+
+
+  4. GNU Nano \
        Follow rc.local method to run the python script on boot. 
 
+# Instructions for the people who want to use this
+  Step 1: Setup a Raspi \
+  Step 2: Setup the Raspi Camera and test the camera \
+  Step 3: In your main computer or PC, run the training.py file from the other repository (mentioned in the references section) \
+  Step 4: Test the main.py on your PC using the test video. \
+  Step 5: Copy the main.py, image_to_text.py and the best.pt (pretrained model file) to your Raspi. \
+  Step 6: Make necessary changes to main.py, image_to_text.py (changes such as .pt file location, video source to live camera feed). \
+  Step 7: Run the main.py on raspi using the camera feed. \
+  Step 8: Follow the instructions in the website (link in references section) to make the python code run on startup. \
+  
 # References
 
 https://github.com/aneesarom/Real-Time-Detection-of-Helmet-Violations-and-Capturing-Bike-Numbers-from-Number-Plates \
