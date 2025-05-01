@@ -21,10 +21,10 @@
   1. main.py \
        It runs the helmet detection model and the number plate recognition model. 
 
-  3. image_to_text.py \
-       It runs the number plate text recognition model. \
+  2. image_to_text.py \
+       It runs the number plate text recognition model.
 
-  4. GNU Nano
+  3. GNU Nano \
        Follow rc.local method to run the python script on boot. 
 
 # References
