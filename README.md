@@ -1,5 +1,5 @@
 Aim
-  To develop an intelligent helmet detection system that identifies two-wheeler riders 
+  \nTo develop an intelligent helmet detection system that identifies two-wheeler riders 
   without helmets and reports violations to a connected system using IoT-based communication.
 
 Objective
