@@ -3,8 +3,8 @@
   without helmets and reports violations to a connected system using IoT-based communication.
 \\
 \\
-## Objective\
-  *To design a real-time monitoring system that captures video of two-wheelerriders. \
+## Objective
+  *To design a real-time monitoring system that captures video of two-wheelerriders.\
   *To extract and transmit violator details to an external system for enforcement.\
   *To create a scalable and cost-effective solution for automated traffic monitoring.\
 
