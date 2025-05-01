@@ -15,19 +15,19 @@
 
 # Implementation
   The detection model is sourced from this github repository \
-  ** https://github.com/aneesarom/Real-Time-Detection-of-Helmet-Violations-and-Capturing-Bike-Numbers-from-Number-Plates ** \
+  **https://github.com/aneesarom/Real-Time-Detection-of-Helmet-Violations-and-Capturing-Bike-Numbers-from-Number-Plates**
 
-  The code in this repository includes \
+  The code in this repository includes
   1. main.py \
-       It runs the helmet detection model and the number plate recognition model. \
-  \
-  2. image_to_text.py \
+       It runs the helmet detection model and the number plate recognition model. 
+
+  3. image_to_text.py \
        It runs the number plate text recognition model. \
 
-  3. GNU Nano
-       Follow rc.local method to run the python script on boot. \
+  4. GNU Nano
+       Follow rc.local method to run the python script on boot. 
 
 # References
 
 https://github.com/aneesarom/Real-Time-Detection-of-Helmet-Violations-and-Capturing-Bike-Numbers-from-Number-Plates \
-https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup \
+https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup
